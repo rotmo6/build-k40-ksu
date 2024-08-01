@@ -16,7 +16,7 @@ on:
         description: '内核代码分支/Tag'
         required: false
         type: string
-        default: 'master'
+        default: '13.0-alioth'
       config_name:
         description: '内核编译配置文件名'
         required: false
