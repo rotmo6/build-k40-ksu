@@ -26,12 +26,12 @@ on:
         description: '内核仓库地址'
         required: false
         type: string
-        default: 'https://github.com/zfdx123/kernel_xiaomi_alioth.git'
+        default: 'https://github.com/LowTension/BAALAM_android_kernel_xiaomi_sm8250.git'
       clang_url:
         description: '编译器下载地址'
         required: false
         type: string
-        default: 'https://github.com/LineageOS/android_prebuilts_gcc_linux-x86_aarch64_aarch64-linux-android-4.9.git'
+        default: 'https://github.com/XSans0/WeebX-Clang/releases/download/WeebX-Clang-19.1.0-rc1-release/WeebX-Clang-19.1.0-rc1.tar.gz'
 
 jobs:
 
