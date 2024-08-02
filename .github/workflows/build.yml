@@ -31,7 +31,7 @@ on:
         description: '编译器下载地址'
         required: false
         type: string
-        default: 'https://github.com/ZyCromerZ/Clang/releases/download/19.0.0git-20240723-release/Clang-19.0.0git-20240723.tar.gz'
+        default: 'https://github.com/ZyCromerZ/Clang/releases/download/10.0.1-20220724-release/Clang-10.0.1-20220724.tar.gz'
 
 jobs:
 
